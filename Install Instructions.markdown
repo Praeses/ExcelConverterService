@@ -1,4 +1,5 @@
 ﻿REQUIREMENTS:
+-----------------------------------------------------------------------
 - ExcelCnv.exe (Microsoft-provided Excel converter)
 	-- Comes installed with Office OR the free Office compatibility pack (http://www.microsoft.com/download/en/details.aspx?id=3)
 	-- Located in %ProgramFiles(x86)%\Office\<Office Version>" <-- ExcelFile class attempts to autoresolve this
@@ -6,6 +7,7 @@
 
 
 BUILD AND INSTALL INSTRUCTIONS:
+-----------------------------------------------------------------------
 - Edit Constants.cs
 	-- If you set the startup type to "Automatic" you can ensure that the service continues to run in case of reboot; however,
 	   the watch folder path in Constants.cs MUST be correct for this to work because I have not yet found a way to specify
@@ -18,6 +20,7 @@ BUILD AND INSTALL INSTRUCTIONS:
 
 
 POST-INSTALLATION SETUP INSTRUCTIONS:
+-----------------------------------------------------------------------
 - Ensure that "<Machine Name>\Local Service" has FULL CONTROL permissions to the watch folder
 - Ensure that "<Machine Name>\Local Service" has READ and EXECUTE permissions on ExcelCnv.exe (listed above in Requirements)
 - On Windows Server 2008, set ExcelCnv.exe to run in "XP Compatibility Mode" (learned this the hard way)
@@ -31,6 +34,7 @@ POST-INSTALLATION SETUP INSTRUCTIONS:
 
 
 HELPFUL PRE- AND POST-BUILD COMMANDS FOR DEBUG:
+-----------------------------------------------------------------------
 - Right click "ExcelConverter" project and open the build options.  Paste the following into the boxes to automatically deploy your
   code upon build.
 - Pre-build commands to automatically stop the service if it is running and reinstall the newly built code:
