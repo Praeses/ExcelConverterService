@@ -1,0 +1,152 @@
+﻿Installing assembly 'c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Service Excel Converter Service has been successfully installed.
+Creating EventLog source Excel Converter Service in log Application...
+Committing assembly 'c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing assembly 'c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Creating EventLog source Excel Converter Service in log Application...
+Rolling back assembly 'c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Restoring event log to previous state for source Excel Converter Service.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Creating EventLog source Excel Converter Service in log Application...
+Rolling back assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Restoring event log to previous state for source Excel Converter Service.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Creating EventLog source Excel Converter Service in log Application...
+Rolling back assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Restoring event log to previous state for source Excel Converter Service.
+Uninstalling assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Removing EventLog source Excel Converter Service.
+Service Excel Converter Service is being removed from the system...
+Service Excel Converter Service was successfully removed from the system.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Creating EventLog source Excel Converter Service in log Application...
+Rolling back assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Restoring event log to previous state for source Excel Converter Service.
+Uninstalling assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Removing EventLog source Excel Converter Service.
+Warning: The source Excel Converter Service is not registered on the local machine.
+Service Excel Converter Service is being removed from the system...
+Service Excel Converter Service was successfully removed from the system.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Creating EventLog source Excel Converter Service in log Application...
+Rolling back assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Restoring event log to previous state for source Excel Converter Service.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   d = 
+Installing service Excel Converter Service...
+Creating EventLog source Excel Converter Service in log Application...
+Rolling back assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   d = 
+Restoring event log to previous state for source Excel Converter Service.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Service Excel Converter Service has been successfully installed.
+Creating EventLog source Excel Converter Service in log Application...
+Committing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Uninstalling assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Removing EventLog source Excel Converter Service.
+Service Excel Converter Service is being removed from the system...
+Service Excel Converter Service was successfully removed from the system.
+Installing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Installing service Excel Converter Service...
+Service Excel Converter Service has been successfully installed.
+Creating EventLog source Excel Converter Service in log Application...
+Committing assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Uninstalling assembly 'C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.InstallLog
+   assemblypath = C:\Users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+Removing EventLog source Excel Converter Service.
+Service Excel Converter Service is being removed from the system...
+Service Excel Converter Service was successfully removed from the system.

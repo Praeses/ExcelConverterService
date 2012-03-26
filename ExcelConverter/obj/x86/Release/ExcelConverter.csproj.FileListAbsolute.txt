@@ -1,0 +1,14 @@
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\bin\Release\ExcelConverter.exe
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\bin\Release\ExcelConverter.exe.config
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\bin\Release\ExcelConverter.pdb
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.csproj.ResolveComReference.cache
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+C:\Users\svines\Documents\Visual Studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Release\ExcelConverter.pdb
+C:\GitRepository\ExcelConverterService\ExcelConverter\bin\Release\ExcelConverter.exe.config
+C:\GitRepository\ExcelConverterService\ExcelConverter\bin\Release\ExcelConverter.exe
+C:\GitRepository\ExcelConverterService\ExcelConverter\bin\Release\ExcelConverter.pdb
+C:\GitRepository\ExcelConverterService\ExcelConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\GitRepository\ExcelConverterService\ExcelConverter\obj\x86\Release\ExcelConverter.csproj.ResolveComReference.cache
+C:\GitRepository\ExcelConverterService\ExcelConverter\obj\x86\Release\ExcelConverter.exe
+C:\GitRepository\ExcelConverterService\ExcelConverter\obj\x86\Release\ExcelConverter.pdb

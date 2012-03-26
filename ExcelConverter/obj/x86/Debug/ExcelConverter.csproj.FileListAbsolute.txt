@@ -1,0 +1,5 @@
+c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\bin\Debug\ExcelConverter.exe
+c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\bin\Debug\ExcelConverter.pdb
+c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Debug\ExcelConverter.exe
+c:\users\svines\documents\visual studio 2010\Projects\ExcelConverter\ExcelConverter\obj\x86\Debug\ExcelConverter.pdb
